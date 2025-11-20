@@ -15,7 +15,7 @@ Friday is a voice-activated AI assistant built with Python. It can recognize you
 ## Project Structure
 
 ```
-AI_Assitant/
+Friday/
 │
 ├── main.py             # Main entry point for the assistant
 ├── gemini_client.py    # Handles communication with Google Gemini AI
@@ -32,8 +32,8 @@ AI_Assitant/
 ### 1. Clone the Repository
 
 ```sh
-git clone <your-repo-url>
-cd AI_Assitant
+git clone https://github.com/gurusewak-singh/Friday.git
+cd Friday
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -103,3 +103,4 @@ music = {
 ## License
 
 MIT License
+
